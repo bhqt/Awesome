@@ -214,10 +214,6 @@ RabbitMQ is lightweight and easy to deploy on premises and in the cloud. It supp
 
 Simple REST and HTTP API Client for .NET.
 
-### [SimpleInjector](https://simpleinjector.org)
-
-Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET.
-
 ### [Scientist.NET](https://github.com/github/Scientist.net)
 
 Library for carefully refactoring critical paths.
@@ -225,6 +221,10 @@ Library for carefully refactoring critical paths.
 ### [Serilog](https://serilog.net)
 
 Serilog provides diagnostic logging to files, the console, and elsewhere. It is easy to set up, has a clean API, and is portable between recent .NET platforms.
+
+### [SimpleInjector](https://simpleinjector.org)
+
+Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET.
 
 ### [Topshelf](http://topshelf-project.com)
 
@@ -252,13 +252,13 @@ MongoDB is a free and open-source cross-platform NoSQL document-oriented databas
 
 PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. PouchDB was created to help web developers build applications that work as well offline as they do online.
 
-### [Redis](https://redis.io)
-
-Redis is an in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries.
-
 ### [RavenDB](https://ravendb.net)
 
 A NoSQL Document Database that has been Fully Transactional.
+
+### [Redis](https://redis.io)
+
+Redis is an in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries.
 
 ### [SQL Server](https://www.microsoft.com/en-us/sql-server)
 
